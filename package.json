@@ -1,7 +1,7 @@
 {
-  "name": "@liberusoftware/module-boilerplate-nuxt",
+  "name": "@liberusoftware/module-webhooks-nuxt",
   "version": "0.1.0-alpha.0",
-  "description": "Liberu Nuxt \u00b7 Vue presentation module foundation",
+  "description": "Webhooks \u2014 Nuxt \u00b7 Vue presentation skeleton",
   "type": "module",
   "license": "MIT",
   "files": [
@@ -40,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liberusoftware/module-boilerplate-nuxt.git"
+    "url": "https://github.com/liberusoftware/module-webhooks-nuxt.git"
   }
 }

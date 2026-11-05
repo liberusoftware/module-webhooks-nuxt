@@ -1,0 +1,25 @@
+{
+  "repository": "module-webhooks-nuxt",
+  "capabilityKey": "liberusoftware/webhooks",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-webhooks-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/webhooks.md",
+  "presentationPlan": "projects/boilerplate/nuxt/webhooks.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
